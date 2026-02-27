@@ -110,6 +110,8 @@
 
 # 07-横向攻击
 ```
+https://www.incendium.rocks/posts/Automating-MS-RPC-Vulnerability-Research/
+
 # 0x01 数据库攻击——优秀项目
     https://github.com/SafeGroceryStore/MDUT
     https://github.com/jas502n/oracleShell
@@ -127,7 +129,8 @@
 # 08-域渗透
 ```
 # 0x01 优秀项目
-    https://github.com/SpecterOps/BloodHound
-    https://lolad-project.github.io/
-    https://swisskyrepo.github.io/InternalAllTheThings/
+    【BloodHound】https://github.com/SpecterOps/BloodHound
+    【Living Off The Land and Exploitation Active Directory】https://lolad-project.github.io/
+    【Internal All The Things】https://swisskyrepo.github.io/InternalAllTheThings/
+    【红队攻防：快速拿下域控的思路打法】https://mp.weixin.qq.com/s/y8DtKYO-ZclbmEAXWBvkhg
 ```
